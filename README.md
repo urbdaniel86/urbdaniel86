@@ -16,7 +16,7 @@ I also love cycling 🚵, coffee ☕️, and being ourdoors ⛺️.
 Any questions? Drop me a line:
 
 📲 WhatsApp: +54 11 7620 9997
-📨 Email: urbdaniel.86@gmail.com
+✉️ Email: urbdaniel.86@gmail.com
 
 <!--
 **urbdaniel86/urbdaniel86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
