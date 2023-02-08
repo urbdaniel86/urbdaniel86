@@ -1,6 +1,6 @@
 ### Hello, world 👋
 
-This is Danny Ramirez speaking. I'm 36 years old and I'm a Data Engineer 💻, I love handling, cleaning, and wrangling large volumes of data 📊. My weapon of choice is Python 🪱 since it lets you do pretty much everything. Other tools I'm experienced with:
+This is Danny Ramirez speaking. I'm 37 years old and I'm a Data Engineer 💻, I love handling, cleaning, and wrangling large volumes of data 📊. My weapon of choice is Python 🪱 since it lets you do pretty much everything. Other tools I'm experienced with:
 
 - SQL 📅
 - PowerBI 📈
